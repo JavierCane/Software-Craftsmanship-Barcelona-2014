@@ -3,7 +3,7 @@ Continuous Delivery
 
 * Ponente: [Viktor Farcic](https://twitter.com/vfarcic)
 * Slides: [Continuous Integration, Delivery and Deployment](http://vfarcic.github.io/continuousDelivery/)
-* Vídeo:
+* Vídeo: [Continuous Integration, Delivery and Deployment at Software Craftsmanship 2014](https://vimeo.com/110678246)
 * Post:
   * [Continuous Deployment](http://technologyconversations.com/2014/11/27/continuous-deployment-introduction/)
   * [Continuous Delivery: Introduction to Concepts and Tools](http://technologyconversations.com/2014/04/29/continuous-delivery-introduction-to-concepts-and-tools/)
